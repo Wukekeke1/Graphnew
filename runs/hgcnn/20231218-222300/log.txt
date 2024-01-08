@@ -1,0 +1,2 @@
+K: 15, local_K: 15, Batch: 28.000000 ./Data/Surface_Defects_pcd_extend_2000_estnorm_noise0001 hgcnn
+Train 0, loss: 1.400355, train acc: 0.371429, train avg acc: 0.371979

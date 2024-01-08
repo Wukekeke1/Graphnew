@@ -1,0 +1,3 @@
+K: 15, local_K: 15, Batch: 30.000000 ./Data/real_data_new_2000 graphcnn_cov
+Train 0, loss: 1.187219, train acc: 0.400000, train avg acc: 0.400000
+Test 0, loss: 1.154439, test acc: 0.333333, test avg acc: 0.333333, test std:0.157135
